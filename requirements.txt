@@ -1,0 +1,5 @@
+opencv-python==4.11.0.80
+deepface==0.0.79
+numpy>=1.19.3
+tensorflow>=2.10.0
+threading==0.1.0
